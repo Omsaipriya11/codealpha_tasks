@@ -20,6 +20,12 @@ The application demonstrates frontend-backend integration, user authentication, 
 * RESTful API Communication
 
 ---
+## Project Screenshot
+
+![Project Homepage](project%20homepage.png)
+
+The screenshot below demonstrates the main product management dashboard of the application, including product listing, cart functionality, and CRUD operations.
+
 
 ## Technology Stack
 
