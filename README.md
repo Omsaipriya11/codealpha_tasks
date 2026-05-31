@@ -22,9 +22,9 @@ The application demonstrates frontend-backend integration, user authentication, 
 ---
 ## Project Screenshot
 
-![Project Homepage](project%20homepage.png)
+The screenshot below shows the main product management dashboard of the application.
 
-The screenshot below demonstrates the main product management dashboard of the application, including product listing, cart functionality, and CRUD operations.
+![Project Homepage](project-homepage.png)
 
 
 ## Technology Stack
